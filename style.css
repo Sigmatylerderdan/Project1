@@ -1,0 +1,40 @@
+.header{
+	padding: 60px;
+	text-align: center;
+	background: #7d97ad;
+	color: white;
+}
+
+.navbar {
+	display: flex;
+	background-color: #333;
+}
+
+.navbar a {
+	color: white;
+	padding: 14px 20px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.navbar a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.footer {
+	padding: 20px;
+	text-align: center;
+	background: #ddd;
+}
+
+p {
+	font-size: 30px; 
+}
+
+h1 {
+	font-size: 40px;
+}
+
+
+
